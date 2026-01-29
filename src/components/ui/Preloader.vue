@@ -31,7 +31,7 @@ onMounted(() => {
             <!-- Logo Image -->
             <!-- mix-blend-screen hides black background edges -->
             <div class="w-32 md:w-96 animate-pulse-slow">
-                <img src="@/assets/iscale_logo.png" alt="iSCALE"
+                <img src="/iscale_logo.png" alt="iSCALE"
                     class="w-full h-auto object-contain mix-blend-screen" />
             </div>
         </div>

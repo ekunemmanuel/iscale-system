@@ -66,7 +66,7 @@ onMounted(() => {
                         <div
                             class="absolute -inset-4 bg-linear-to-r from-primary to-blue-600 rounded-2xl opacity-20 group-hover:opacity-40 blur-lg transition-opacity duration-500">
                         </div>
-                        <img src="@/assets/founder_djeffson.png" alt="Founder Djeffson"
+                        <img src="/founder_djeffson.png" alt="Founder Djeffson"
                             class="relative rounded-2xl shadow-2xl w-full md:max-w-md mx-auto transition-all duration-500" />
 
                         <div
