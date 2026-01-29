@@ -69,7 +69,7 @@ onMounted(() => {
             </svg>
           </span>
           <span>e </span>
-          <span>$100k+/Month.</span>
+          <span>$100k+/Month</span>
         </span>
         <span class="hero-item text-white" style="animation-delay: 300ms">
           With <span class="text-primary">Predictability.</span>
