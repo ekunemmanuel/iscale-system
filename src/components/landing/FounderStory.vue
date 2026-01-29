@@ -4,8 +4,7 @@ import Section from '../ui/Section.vue';
 import Container from '../ui/Container.vue';
 import Button from '../ui/Button.vue';
 
-// Using the real founder image
-import founderImage from '../../../assets/founder_djeffson.png';
+// Image handled in template via public path
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 const founderSectionRef = ref<any>(null);
